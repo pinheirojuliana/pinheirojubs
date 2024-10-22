@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi, I'm Juliana 👋
 
-<!--
 **pinheirojubs/pinheirojubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinheirojubs&theme=jolly&show_icons=true)
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,powerbi,mysql,figma,vscode)](https://skillicons.dev)
+
+![snake animation](https://github.com/<pinheirojubs>/<pinheirojubs>/blob/output/github-contribution-grid-snake2.svg)
