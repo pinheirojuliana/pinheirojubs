@@ -37,6 +37,6 @@
 
 <div align="center" >
  
-![snake gif](https://github.com/pinheirojubs/pinheirojubs/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/pinheirojubs/pinheirojubs/blob/output/github-contribution-grid-snake.gif)
 
  </div>
