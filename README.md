@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,powerbi,mysql,figma,vscode)](https://skillicons.dev)
 
-![snake animation](https://github.com/<pinheirojubs>/<pinheirojubs>/blob/output/github-contribution-grid-snake2.svg)
+ ![snake gif](https://github.com/pinheirojubs/pinheirojubs/blob/output/github-contribution-grid-snake.gif)
