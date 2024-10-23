@@ -14,5 +14,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jp_pinheiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:juliana.pine8@gmail.com)
 
- 
  ![snake gif](https://github.com/pinheirojubs/pinheirojubs/blob/output/github-contribution-grid-snake.gif)
